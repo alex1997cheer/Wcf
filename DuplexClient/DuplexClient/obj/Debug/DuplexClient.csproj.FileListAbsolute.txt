@@ -1,0 +1,10 @@
+F:\Project\Wcf\DuplexClient\DuplexClient\bin\Debug\DuplexClient.exe.config
+F:\Project\Wcf\DuplexClient\DuplexClient\bin\Debug\DuplexClient.exe
+F:\Project\Wcf\DuplexClient\DuplexClient\bin\Debug\DuplexClient.pdb
+F:\Project\Wcf\DuplexClient\DuplexClient\obj\Debug\DuplexClient.csprojAssemblyReference.cache
+F:\Project\Wcf\DuplexClient\DuplexClient\obj\Debug\DuplexClient.Form1.resources
+F:\Project\Wcf\DuplexClient\DuplexClient\obj\Debug\DuplexClient.Properties.Resources.resources
+F:\Project\Wcf\DuplexClient\DuplexClient\obj\Debug\DuplexClient.csproj.GenerateResource.cache
+F:\Project\Wcf\DuplexClient\DuplexClient\obj\Debug\DuplexClient.csproj.CoreCompileInputs.cache
+F:\Project\Wcf\DuplexClient\DuplexClient\obj\Debug\DuplexClient.exe
+F:\Project\Wcf\DuplexClient\DuplexClient\obj\Debug\DuplexClient.pdb

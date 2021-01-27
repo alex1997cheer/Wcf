@@ -1,0 +1,10 @@
+F:\Project\Wcf\ReportServices\Host\bin\Debug\Host.exe.config
+F:\Project\Wcf\ReportServices\Host\bin\Debug\Host.exe
+F:\Project\Wcf\ReportServices\Host\bin\Debug\Host.pdb
+F:\Project\Wcf\ReportServices\Host\bin\Debug\ReportServices.dll
+F:\Project\Wcf\ReportServices\Host\bin\Debug\ReportServices.pdb
+F:\Project\Wcf\ReportServices\Host\obj\Debug\Host.csprojAssemblyReference.cache
+F:\Project\Wcf\ReportServices\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+F:\Project\Wcf\ReportServices\Host\obj\Debug\Host.csproj.CopyComplete
+F:\Project\Wcf\ReportServices\Host\obj\Debug\Host.exe
+F:\Project\Wcf\ReportServices\Host\obj\Debug\Host.pdb

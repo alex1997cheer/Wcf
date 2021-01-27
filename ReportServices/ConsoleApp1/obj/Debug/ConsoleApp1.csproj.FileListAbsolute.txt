@@ -1,0 +1,6 @@
+F:\Project\Wcf\ReportServices\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Project\Wcf\ReportServices\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Project\Wcf\ReportServices\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Project\Wcf\ReportServices\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Project\Wcf\ReportServices\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Project\Wcf\ReportServices\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

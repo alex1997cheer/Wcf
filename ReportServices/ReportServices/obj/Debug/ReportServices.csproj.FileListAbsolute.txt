@@ -1,0 +1,5 @@
+F:\Project\Wcf\ReportServices\ReportServices\bin\Debug\ReportServices.dll
+F:\Project\Wcf\ReportServices\ReportServices\bin\Debug\ReportServices.pdb
+F:\Project\Wcf\ReportServices\ReportServices\obj\Debug\ReportServices.csproj.CoreCompileInputs.cache
+F:\Project\Wcf\ReportServices\ReportServices\obj\Debug\ReportServices.dll
+F:\Project\Wcf\ReportServices\ReportServices\obj\Debug\ReportServices.pdb
